@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8590fe5a12736ac4cb290e313e19f893, type: 3}
+  m_Name: I+10
+  m_EditorClassIdentifier: 
+  effectCard: 10
+  effetPression: 0
+  nameCard: I+10
+  descriptionCard: 
+  waitTime: 0
+  IntouchableCard: 0
+  Freeze: 0
+  rarety: 1
+  cardSprite: {fileID: 21300000, guid: 81f35bf58359a744c8f2ef66f684bf62, type: 3}
+  BuffIcon: {fileID: 21300000, guid: b9bfde468841e104b95866324ce3b4eb, type: 3}
